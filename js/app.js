@@ -12,7 +12,7 @@ const er = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0
      
 
 
-
+explanation()
 // event Listener
 
 eventListeners();
