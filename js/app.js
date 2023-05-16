@@ -149,6 +149,9 @@ function sendEmail(e) {
 
 
 }
+function explanation() {
+        const explanationUser = window.alert('In this project an example of a form for sending an email will be shown. The propose of this project is to show that i am able to work with css, html and javascript.');
+}
 
 
 
